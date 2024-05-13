@@ -55,13 +55,17 @@ void whiteness (int siz)
 
 int to_binary (int N)
 {
-    int bites = sizeof(N)*8;
     int times0 = 0;
     int times1 = 0;
-    for (int i = 0; i < bites; ++i)
+    if (N < 0 || N > 80000) return 0;
+    else
     {
-        if (((N >> i) & 1) == 0) times0++;
-        else times1++;
+        int bites = sizeof(N)*8;
+        for (int i = 0; i < bites; ++i)
+        {
+            if (((N >> i) & 1) == 0) times0++;
+            else times1++;
+        }
+        return ((((N >> 5) & 1) == 1) ? times1 : times0);
     }
-    return ((((N >> 5) & 1) == 1) ? times1 : times0);
 }
