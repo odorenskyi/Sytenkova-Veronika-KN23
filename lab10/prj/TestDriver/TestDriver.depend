@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1715917509 source:c:\users\user\university\sytenkova-veronika-kn23\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	"ModulesSytenkova.h"
+
+1715912884 c:\users\user\university\sytenkova-veronika-kn23\lab08\prj\modulessytenkova.h
+
