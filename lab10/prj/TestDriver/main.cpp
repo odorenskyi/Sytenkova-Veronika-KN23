@@ -12,19 +12,19 @@ using namespace std;
 void TestDriver_first_task(int test_case, string input_file, string output_file)
 {
     cout << "TC_0" << test_case << endl;
-    cout << "Ð’Ñ…Ñ–Ð´Ð½Ñ– Ð´Ð°Ð½Ñ–:\ninput_file: " << input_file << endl;
+    cout << "Âõ³äí³ äàí³:\ninput_file: " << input_file << endl;
 
     task_ten_one(input_file, output_file);
-    cout << "Ð’Ð¼Ñ–ÑÑ‚ Ñ„Ð°Ð¹Ð»Ñƒ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð°Ñ” Ñ‚ÐµÑÑ‚-ÐºÐµÐ¹ÑÑƒ? (y/n): " ;
+    cout << "Âì³ñò ôàéëó â³äïîâ³äàº òåñò-êåéñó? (y/n): " ;
     char check;
     cin >> check;
     if (check == 'y')
     {
-        cout << endl << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: passed" << endl;
+        cout << endl << "Ðåçóëüòàò: passed" << endl;
     }
     else
     {
-        cout << endl << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: failed" << endl;
+        cout << endl << "Ðåçóëüòàò: failed" << endl;
     }
 
     cout << endl;
@@ -33,19 +33,19 @@ void TestDriver_first_task(int test_case, string input_file, string output_file)
 void TestDriver_second_task(int test_case, string input_file)
 {
     cout << "TC_0" << test_case << endl;
-    cout << "Ð’Ñ…Ñ–Ð´Ð½Ñ– Ð´Ð°Ð½Ñ–:\ninput_file: " << input_file << endl;
+    cout << "Âõ³äí³ äàí³:\ninput_file: " << input_file << endl;
 
     task_ten_two(input_file);
-    cout << "Ð’Ð¼Ñ–ÑÑ‚ Ñ„Ð°Ð¹Ð»Ñƒ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð°Ñ” Ñ‚ÐµÑÑ‚-ÐºÐµÐ¹ÑÑƒ? (y/n): " ;
+    cout << "Âì³ñò ôàéëó â³äïîâ³äàº òåñò-êåéñó? (y/n): " ;
     char check;
     cin >> check;
     if (check == 'y')
     {
-        cout << endl << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: passed" << endl;
+        cout << endl << "Ðåçóëüòàò: passed" << endl;
     }
     else
     {
-        cout << endl << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: failed" << endl;
+        cout << endl << "Ðåçóëüòàò: failed" << endl;
     }
 
     cout << endl;;
@@ -53,20 +53,20 @@ void TestDriver_second_task(int test_case, string input_file)
 void TestDriver_third_task(int test_case, int x, int z, int b, string output_file)
 {
     cout << "TC_0" << test_case << endl;
-    cout << "Ð’Ñ…Ñ–Ð´Ð½Ñ– Ð´Ð°Ð½Ñ–:\nx: " << x << "\nz: " << z << "\nb: " << b << endl;
+    cout << "Âõ³äí³ äàí³:\nx: " << x << "\nz: " << z << "\nb: " << b << endl;
     cout << "output_file: " << output_file << endl;
 
     task_ten_three(x, z, b, output_file);
-    cout << "Ð’Ð¼Ñ–ÑÑ‚ Ñ„Ð°Ð¹Ð»Ñƒ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð°Ñ” Ñ‚ÐµÑÑ‚-ÐºÐµÐ¹ÑÑƒ? (y/n): " ;
+    cout << "Âì³ñò ôàéëó â³äïîâ³äàº òåñò-êåéñó? (y/n): " ;
     char check;
     cin >> check;
     if (check == 'y')
     {
-        cout << endl << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: passed" << endl;
+        cout << endl << "Ðåçóëüòàò: passed" << endl;
     }
     else
     {
-        cout << endl << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: failed" << endl;
+        cout << endl << "Ðåçóëüòàò: failed" << endl;
     }
 
     cout << endl;;
