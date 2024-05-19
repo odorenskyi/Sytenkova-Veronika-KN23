@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1716063214 source:e:\k\2\bmtp\lab11\prj\modulesshavlienkov\modulesshavlienkov.cpp
+	<cmath>
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	"struct_type_project_8.h"
+
+1716045624 e:\k\2\bmtp\lab11\prj\app\struct_type_project_8.h
+	<string>
+
+1716122981 source:d:\lab11\prj\modulesshavlienkov\modulesshavlienkov.cpp
+	<cmath>
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	"struct_type_project_8.h"
+
+1716045624 d:\lab11\prj\app\struct_type_project_8.h
+	<string>
+
+1716145438 source:d:\lab11\lab11\prj\modulesshavlienkov\modulesshavlienkov.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<sstream>
+	<vector>
+	"struct_type_project_8.h"
+
+1716045624 d:\lab11\lab11\prj\app\struct_type_project_8.h
+	<string>
+
