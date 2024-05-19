@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1716141307 source:d:\lab11\prj\modulesmakodzeba\modulesmakodzeba.cpp
+	<cmath>
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+
+1716145963 source:d:\lab11\lab11\prj\modulesmakodzeba\modulesmakodzeba.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
