@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1716145990 source:d:\lab11\lab11\prj\app\main.cpp
+	<iostream>
+	<fstream>
+	"ModulesShavlienkov.h"
+	"ModulesSytenkova.h"
+	"ModulesMakodzeba.h"
+
+1716144899 d:\lab11\lab11\prj\modulesshavlienkov\modulesshavlienkov.h
+	"../App/struct_type_project_8.h"
+	<string>
+
+1716045624 d:\lab11\lab11\prj\app\struct_type_project_8.h
+	<string>
+
+1716144981 d:\lab11\lab11\prj\modulessytenkova\modulessytenkova.h
+	"../App/struct_type_project_8.h"
+	<string>
+
+1716145093 d:\lab11\lab11\prj\modulesmakodzeba\modulesmakodzeba.h
+
+1716145990 source:c:\users\user\desktop\lab11\prj\app\main.cpp
+	<iostream>
+	<fstream>
+	"ModulesShavlienkov.h"
+	"ModulesSytenkova.h"
+	"ModulesMakodzeba.h"
+
+1716144899 c:\users\user\desktop\lab11\prj\modulesshavlienkov\modulesshavlienkov.h
+	"../App/struct_type_project_8.h"
+	<string>
+
+1716045624 c:\users\user\desktop\lab11\prj\app\struct_type_project_8.h
+	<string>
+
+1716144981 c:\users\user\desktop\lab11\prj\modulessytenkova\modulessytenkova.h
+	"../App/struct_type_project_8.h"
+	<string>
+
+1716145093 c:\users\user\desktop\lab11\prj\modulesmakodzeba\modulesmakodzeba.h
+
