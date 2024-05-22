@@ -5,13 +5,13 @@
 
 using namespace std;
 
-class ClassLab12_S{
+class ClassLab12_Sytenkova{
 private:
     float radius;
     int cabin;
 
 public:
-    ClassLab12_S(float radius = 1.0, int cabin = 1) : radius(radius), cabin(cabin) {}
+    ClassLab12_Sytenkova(float radius = 1.0, int cabin = 1) : radius(radius), cabin(cabin) {}
 
     void set_radius(float r);
     void set_cabin(float c);
@@ -21,7 +21,7 @@ public:
     float get_area() const { return M_PI * pow(radius, 2); }
 };
 
-void ClassLab12_S::set_radius(float r)
+void ClassLab12_Sytenkova::set_radius(float r)
 {
     if (r >= 1)
     {
@@ -33,7 +33,7 @@ void ClassLab12_S::set_radius(float r)
     }
 }
 
-void ClassLab12_S::set_cabin(float c)
+void ClassLab12_Sytenkova::set_cabin(float c)
 {
     if (ñ >= 1)
     {
