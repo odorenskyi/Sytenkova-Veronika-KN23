@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716430221 source:c:\users\user\university\sytenkova-veronika-kn23\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<filesystem>
+	"ModulesSytenkova.h"
+
+1716425624 c:\users\user\university\sytenkova-veronika-kn23\lab12\prj\modulessytenkova.h
+	<math.h>
+
