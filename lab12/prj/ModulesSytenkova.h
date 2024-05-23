@@ -14,7 +14,7 @@ public:
     ClassLab12_Sytenkova(float radius = 1.0, int cabin = 1) : radius(radius), cabin(cabin) {}
 
     void set_radius(float r);
-    void set_cabin(float c);
+    void set_cabin(int c);
 
     float get_radius() const { return radius; }
     float get_cabin() const { return cabin; }
@@ -33,9 +33,9 @@ void ClassLab12_Sytenkova::set_radius(float r)
     }
 }
 
-void ClassLab12_Sytenkova::set_cabin(float c)
+void ClassLab12_Sytenkova::set_cabin(int c)
 {
-    if (ñ >= 1)
+    if (c >= 1)
     {
          cabin = c;
     }
